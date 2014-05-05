@@ -1,0 +1,13 @@
+{
+  "name": "balance-arduino-client",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io-client": "~1.0.0-pre2",
+    "throttleit": "0.0.2",
+    "remap": "git://github.com/mnmly/remap",
+    "johnny-five": "~0.7.31",
+    "lodash": "*",
+    "debug": "~0.8.1"
+  }
+}
