@@ -1,5 +1,5 @@
 {
-  "name": "balance-arduino-client",
+  "name": "sfpc-seesaw-arduino",
   "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
