@@ -7,6 +7,8 @@
   Setting up the arduino is as simple as plugging servo to PIN 9.
 
   Use in combination with [sfpc-seesaw](https://github.com/mnmly/sfpc-seesaw).
+  
+  ![](http://c.mnmly.com/Ve5d/diagram.gif)
 
 ## Installation
 
